@@ -75,9 +75,9 @@ self.addEventListener('message',(event)=>{
   console.log('메세지가?....', event.data);
   const option = {
    body: event.data.message,
-   icon:'1.jpg',    /* 제목옆에 작은 원형이미지 */
-   image:'2.jpg',  /* 내용썸네일 */
-   badge:'3.jpg',
+   icon:'favicon.ico',    /* 제목옆에 작은 원형이미지 */
+   image:'milky-way.jpg',  /* 내용썸네일 */
+   badge:'logo192.png',
    vibrate:[200,100,300],
    actions:[
        {action:'open', title:'자세히보기'},
