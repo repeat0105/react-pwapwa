@@ -3,15 +3,15 @@
   "name": "Create React App Sample",
   "screenshots": [
     {
-      "src": "icon/favicon-1280x720.png",
+      "src": "icon/mstile-310x310.png",
       "type": "image/png",
-      "sizes": "1280x720",
+      "sizes": "558x558",
       "form_factor": "narrow"
     },
     {
-      "src": "icon/favicon-1280x720.png",
+      "src": "icon/mstile-310x310.png",
       "type": "image/png",
-      "sizes": "1280x720",
+      "sizes": "558x558",
       "form_factor": "wide"
     }
   ],
